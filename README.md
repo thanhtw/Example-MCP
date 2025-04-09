@@ -1,5 +1,5 @@
 # MiAI_MCP
-Demo of building and intergraition MCP Server
+Demo of building and integration MCP Server
 
 Video link:  https://youtu.be/_52-kz08LvU
 
