@@ -1,7 +1,7 @@
 # MiAI_MCP
 Demo of building and integration MCP Server
 
-Video link:  https://youtu.be/_52-kz08LvU
+Video link:  https://youtu.be/6rDUTy87Xxg
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
